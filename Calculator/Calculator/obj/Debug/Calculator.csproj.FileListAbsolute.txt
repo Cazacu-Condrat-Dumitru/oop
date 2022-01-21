@@ -1,0 +1,17 @@
+C:\0Universitate\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\0Universitate\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\0Universitate\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\0Universitate\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\0Universitate\Calculator\Calculator\obj\Debug\App.g.cs
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\0Universitate\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator.AboutBox.resources
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\0Universitate\Calculator\Calculator\obj\Debug\Calculator.pdb
