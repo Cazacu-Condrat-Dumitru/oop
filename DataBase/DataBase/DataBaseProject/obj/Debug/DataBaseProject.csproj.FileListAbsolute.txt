@@ -1,0 +1,58 @@
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csprojAssemblyReference.cache
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Form1.resources
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.pdb
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.exe
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.pdb
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csproj.ResolveComReference.cache
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\bin\Debug\DataBaseProject.exe
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\bin\Debug\DataBaseProject.pdb
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.csprojAssemblyReference.cache
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.csproj.ResolveComReference.cache
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.Form1.resources
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.exe
+D:\Tudor\Proiecte c#\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.pdb
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\bin\Debug\DataBaseProject.exe
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\bin\Debug\DataBaseProject.pdb
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.csproj.AssemblyReference.cache
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.csproj.ResolveComReference.cache
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.Form1.resources
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.exe
+C:\Users\Dima\Downloads\excell-2.0-main\excell-2.0-main\DataBaseProject\obj\Debug\DataBaseProject.pdb
+C:\0Universitate\DataBase\DataBase\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+C:\0Universitate\DataBase\DataBase\DataBaseProject\bin\Debug\DataBaseProject.exe
+C:\0Universitate\DataBase\DataBase\DataBaseProject\bin\Debug\DataBaseProject.pdb
+C:\0Universitate\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.csproj.AssemblyReference.cache
+C:\0Universitate\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.csproj.SuggestedBindingRedirects.cache
+C:\0Universitate\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.csproj.ResolveComReference.cache
+C:\0Universitate\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.Form1.resources
+C:\0Universitate\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+C:\0Universitate\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+C:\0Universitate\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+C:\0Universitate\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.exe
+C:\0Universitate\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.pdb
+C:\0Poo\DataBase\DataBase\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+C:\0Poo\DataBase\DataBase\DataBaseProject\bin\Debug\DataBaseProject.exe
+C:\0Poo\DataBase\DataBase\DataBaseProject\bin\Debug\DataBaseProject.pdb
+C:\0Poo\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.csproj.AssemblyReference.cache
+C:\0Poo\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.csproj.SuggestedBindingRedirects.cache
+C:\0Poo\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.csproj.ResolveComReference.cache
+C:\0Poo\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+C:\0Poo\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+C:\0Poo\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+C:\0Poo\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.exe
+C:\0Poo\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.pdb
+C:\0Poo\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.marfa.resources
+C:\0Poo\DataBase\DataBase\DataBaseProject\obj\Debug\DataBaseProject.marfa_Alimentare.resources
